@@ -30,7 +30,7 @@ Topology structure:
 
 h1 ----\
         \
-h2 ----- s1 ----- POX Controller
+h2 -----  s1 ----- POX Controller
         /
 h3 ----/
 
@@ -182,7 +182,7 @@ Expected output:
 ![qos_controller](Demo/python_script.png)
 ![qos_controller](Demo/initiate_controller.png)
 ![normal](Demo/normal_case1.png)
-![normal](Demo/case1.png.png)
+![normal](Demo/case1.png)
 ![blocked](Demo/blocked_case2.png)
 
 
